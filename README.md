@@ -1,4 +1,5 @@
-<<<<<<< HEAD
-=======
+Monsters Rolodex
+My first React.js progect at course '
+Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)' on Udemy.
 
->>>>>>> eca1bbf6f4240b24509153a6aaac55779ae40389
+https://konyshevs.github.io/monsters-rolodex-react-project-1/
